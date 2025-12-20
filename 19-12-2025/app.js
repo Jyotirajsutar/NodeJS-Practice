@@ -1,4 +1,4 @@
-const mathModule = require("./02math");
+const mathModule = require("./math");
 
 // calls the add & sub function from mathModule
 console.log("Math value is:", mathModule.add(5, 8));
