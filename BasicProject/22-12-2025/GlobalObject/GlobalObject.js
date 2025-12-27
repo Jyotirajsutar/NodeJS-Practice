@@ -41,7 +41,7 @@ function globalObject() {
         // Inside the callback, log the __filename global variable, which holds the absolute path of the current module file
         console.log(__filename);
     }, 1000);
-    // Comment: Scheduling to print the directory name after 2 seconds
+    // Comment: Scheduling to print the direc+tory name after 2 seconds
     // Print directory name after 2 seconds.
     // Use setTimeout to delay logging the current directory's path (__dirname) by 2000 milliseconds (2 seconds)
     setTimeout(() => {

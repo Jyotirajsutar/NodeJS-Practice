@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "url": "^0.11.4"
+  },
+  "name": "26-12-2025",
+  "version": "1.0.0",
+  "description": "",
+  "main": "URL-HandlingServer.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node URL-HandlingServer"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
